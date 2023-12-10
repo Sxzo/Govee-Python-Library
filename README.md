@@ -1,6 +1,13 @@
 # Govee API 2.0 Python Library (2023)
 This is a super simple interface for interacting with Govee smart lights via Python. 
 
+## Installation
+```
+pip install govee-py2
+```
+https://pypi.org/project/govee-py2/
+
+---
 There are three primary functions to control the lights:
 - Toggle power
 - Set brightness
